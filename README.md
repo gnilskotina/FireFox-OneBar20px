@@ -24,14 +24,14 @@ Run each line individually
 ```sh
 cd #paste the path you copied before here
 
-git clone https://codeberg.org/Freeplay/firefox-onebar.git chrome
+git clone https://github.com/gnilskotina/FireFox-OneBar20px.git chrome
 ```
 
 #### OR, to add it manually:
 1. Go to the path you copied before in your file explorer
 2. If there is no `chrome` folder, create one
 3. Then, inside the `chrome` folder, create a file called `userChrome.css`
-    - Copy & Paste the contents of [`userChrome.css`](https://codeberg.org/Freeplay/Firefox-Onebar/raw/branch/main/userChrome.css) into the file
+    - Copy & Paste the contents of [`userChrome.css`](https://github.com/gnilskotina/FireFox-OneBar20px/blob/main/userChrome.css) into the file
 
 #### Restart Firefox, and enjoy :)
 
